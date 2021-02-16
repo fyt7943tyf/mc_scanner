@@ -1,0 +1,16 @@
+[
+{
+  "modid": "scanner",
+  "name": "Ore Scanner",
+  "description": "Ore scanner mod.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["fyt"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
